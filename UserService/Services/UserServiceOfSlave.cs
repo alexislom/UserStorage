@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using UserService.Entities;
-using UserService.Services.Interfaces;
+using UserService.Interfaces;
 using UserService.TCP;
 
 namespace UserService.Services

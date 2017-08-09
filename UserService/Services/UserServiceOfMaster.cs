@@ -11,7 +11,7 @@ using UserService.Entities;
 using UserService.Events;
 using UserService.Exceptions;
 using UserService.GeneratorId;
-using UserService.Services.Interfaces;
+using UserService.Interfaces;
 
 namespace UserService.Services
 {
